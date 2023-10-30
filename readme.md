@@ -1,3 +1,3 @@
-### Live Link
+### My Python Project Archive
 
-# You can go to the following link to checkout this program live: https://replit.com/@jensenjacobgeor/higher-lower-game?v=1
+# Here you can find almost, if not all, of my python projects. There will be links in the readme files of each project which will take you to a repl of the same. Enjoy!
